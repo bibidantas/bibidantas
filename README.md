@@ -1,7 +1,10 @@
 # Olá, eu sou a Ana! 👋
+```yaml
+Bem-vindo(a) ao meu GitHub!
+```
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Iniciando minha jornada no **mercado de tecnologia**  
+🚀 Iniciando minha jornada no **mercado da TI**  
 📚 Atualmente aprendendo **Python, HTML e CSS**
 
 
@@ -24,4 +27,10 @@
 
 ---
 
+## 📩 Contato 
+
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?logo=gmail&logoColor=white)](mailto:anadantas@gmail.com)
+
+---
 Obrigada por visitar meu perfil! ♡
+
