@@ -27,6 +27,7 @@ Bem-vindo(a) ao meu GitHub!
 ## 📩 Contato 
 
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?logo=gmail&logoColor=white)](mailto:anadantas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu_Perfil-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anadantas31)
 
 ---
 Obrigada por visitar meu perfil ♡
