@@ -24,4 +24,4 @@
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+Obrigada por visitar meu perfil! ♡
