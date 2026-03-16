@@ -7,9 +7,6 @@ Bem-vindo(a) ao meu GitHub!
 🚀 Iniciando minha jornada no **mercado da TI**  
 📚 Atualmente aprendendo **Python, HTML e CSS**
 
-
-## 🛠️ Tecnologias
-
 <div>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -20,8 +17,8 @@ Bem-vindo(a) ao meu GitHub!
 
 ## 📈 Objetivos
 
-- Aprender e praticar meus conhecimentos
-- Criar meus primeiros projetos
+- Aprender e desenvolver meus conhecimentos
+- Praticar e criar projetos
 - Evoluir na área de tecnologia
 - Conseguir minha primeira oportunidade em TI
 
@@ -32,5 +29,5 @@ Bem-vindo(a) ao meu GitHub!
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?logo=gmail&logoColor=white)](mailto:anadantas@gmail.com)
 
 ---
-Obrigada por visitar meu perfil! ♡
+Obrigada por visitar meu perfil ♡
 
